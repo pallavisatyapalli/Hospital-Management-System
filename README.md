@@ -58,7 +58,7 @@ A comprehensive healthcare management solution built with Django, designed to st
 - **UI Components**: IcoFont, Slick Carousel
 - **Deployment**: PythonAnywhere
 
-## 📱 Screenshots
+<!--## 📱 Screenshots
 
 ### Home Page
 ![Home Page](Hope_Hospitals/public/home%20-%201.png)
@@ -82,7 +82,7 @@ A comprehensive healthcare management solution built with Django, designed to st
 
 ### Test Results Management
 ![Test Results](Hope_Hospitals/public/test-results.png)
-*Laboratory results tracking system*
+*Laboratory results tracking system*-->
 
 ## 🛠️ Installation & Setup
 
